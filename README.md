@@ -3,7 +3,7 @@
 
 |  |  |
 | --- | --- |
-| [Virtual Paint](worldometers) | A Webcam Paint Application Using OpenCV  |
+| [Virtual Paint](Virtual_Paint) | A Webcam Paint Application Using OpenCV  |
 
 ## Dependencies
 
